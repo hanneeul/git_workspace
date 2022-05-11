@@ -10,6 +10,6 @@ package com.kh.animal;
  *  - conflict 발생가능성 있음.
  */
 public class Cow {
-
 	private String name;
+	private String type;
 }
